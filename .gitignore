@@ -29,3 +29,8 @@ build/
 
 ### VS Code ###
 .vscode/
+wrapper/
+out/
+in/
+.mvn
+.mvn/

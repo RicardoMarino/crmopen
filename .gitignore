@@ -27,10 +27,15 @@ target/
 /.nb-gradle/
 build/
 
+### Build
+.metadata
+.metadata/
+
 ### VS Code ###
 .vscode/
 wrapper/
 out/
 in/
-.mvn
+
+.mvn/wrapper/
 .mvn/

@@ -1,4 +1,4 @@
-package br.com.crmopencom.example.app.resources.exception;
+package br.com.crmopencom.example.app.config;
 
 import java.io.Serializable;
 
